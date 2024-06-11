@@ -1,5 +1,5 @@
 "Lugares que comen"
 
-Proyecto Laboratio programacion II.
+Proyecto Laboratorio programacion II.
 
 Integrantes: Diego Gutierrez, Leonardo Roa, Sebastián Soto.
